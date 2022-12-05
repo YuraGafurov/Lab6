@@ -14,7 +14,7 @@ class Test(unittest.TestCase):
 
     def test_subtraction(self):
         self.assertEqual(main.subtraction(10, 3), 7)
-        self.assertEqual(main.subtraction(7, 1), 5)
+        self.assertEqual(main.subtraction(7, 2), 5)
 
 
 
