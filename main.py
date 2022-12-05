@@ -9,5 +9,3 @@ def multiply(x, y):
 def subtraction(x, y):
     return x-y
 
-
-print(7)
